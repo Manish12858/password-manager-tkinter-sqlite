@@ -1,0 +1,8 @@
+# Local database with saved passwords
+*.db
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
